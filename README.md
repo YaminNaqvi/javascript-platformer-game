@@ -1,9 +1,11 @@
 # javascript-platformer-game
 A 2D platformer game built with JavaScript as part of my web development learning.
+
 Technologies Used:
 HTML
 CSS
 JavaScript
+
 Features:
 Player movement
 Keyboard controls
